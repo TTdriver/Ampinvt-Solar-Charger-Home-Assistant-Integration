@@ -15,6 +15,8 @@ A working ESPHome YAML configuration file is included in this repository.
 
 The second step is wiring the ESP32 to the RS485-to-TTL converter and connecting it to the solar charge controller using an Ethernet cable.
 
+Lastly, a required ampinvt.h file is included in this repository. This file needs placed in your ESP home directory. 
+
 ## Hardware Used
 
 * ESP32 development board, such as an ESP32-WROOM-32
