@@ -85,4 +85,8 @@ Proceed at your own risk. Incorrect wiring may damage the ESP32, converter, or s
 <img width="3000" height="4000" alt="20260728_221802" src="https://github.com/user-attachments/assets/09d1a9a6-9403-4360-a1cd-6b106c524d10" />
 <img width="3000" height="4000" alt="20260728_221745" src="https://github.com/user-attachments/assets/a8778234-63a0-4a7a-bafb-77ff0f7b1e5a" />
 
+## Give Thanks
 
+If you’d like to say thanks by buying me a drink or helping cover AI tokens, it’s appreciated.
+
+[Give Thanks](https://thanks.kerchnerlabs.com)
